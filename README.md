@@ -4,7 +4,7 @@ Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDFs, index th
 
 ## Demo
 
-![Demo](public/videos/demo.gif)
+![Demo](public/videos/Demo.gif)
 
 
 ## Features
